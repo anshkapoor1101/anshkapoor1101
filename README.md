@@ -1,5 +1,6 @@
 ## Hi there 👋 I am a Software Engineering undergrad @MonashUni. I'm passionate about Machine Learning and Data Science!
 - 🔭 I’m currently working on mastering Python
+- Connect with me on my LinkedIn: <a href: "https://www.linkedin.com/in/ansh-kapoor-68a969256/"</a>
 
 <!--
 **anshkapoor1101/anshkapoor1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
