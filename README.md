@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am a Software Engineering undergrad @MonashUni. I'm passionate about Machine Learning and Data Science!
+- 🔭 I’m currently working on mastering Python
 
 <!--
 **anshkapoor1101/anshkapoor1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
